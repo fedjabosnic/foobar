@@ -4,11 +4,13 @@
     <id>$id$</id>
     <version>$version$</version>
     <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
+    <authors>Fedja Bosnic</authors>
+    <owners>Fedja Bosnic</owners>
+    <summary>A back to basics library for manipulating bar data.</summary>
     <description>$description$</description>
-    <releaseNotes></releaseNotes>
+    <projectUrl>https://github.com/fedjabosnic/foobar</projectUrl>
     <copyright>Copyright © Fedja Bosnic 2015</copyright>
-    <tags>tobacco</tags>
+    <releaseNotes></releaseNotes>
+    <tags>foobar bars finance</tags>
   </metadata>
 </package>

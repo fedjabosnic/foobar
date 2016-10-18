@@ -6,8 +6,8 @@
     <ProjectGuid>{C68DED27-A119-45F7-8B61-366AA504C15D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tobacco.Test</RootNamespace>
-    <AssemblyName>Tobacco.Test</AssemblyName>
+    <RootNamespace>Foobar.Test</RootNamespace>
+    <AssemblyName>Foobar.Test</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -80,7 +80,7 @@
     <Compile Include="tests.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Foobar.Core\Foobar.Core.csproj">
+    <ProjectReference Include="..\Foobar\Foobar.csproj">
       <Project>{0539F21E-9D6D-4515-9AD0-F9BEDF592A84}</Project>
       <Name>Tobacco</Name>
     </ProjectReference>

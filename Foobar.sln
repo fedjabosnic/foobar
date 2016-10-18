@@ -3,12 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foobar.Core", "Foobar.Core\Foobar.Core.csproj", "{0539F21E-9D6D-4515-9AD0-F9BEDF592A84}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foobar", "Foobar\Foobar.csproj", "{0539F21E-9D6D-4515-9AD0-F9BEDF592A84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foobar.Core.Test", "Foobar.Core.Test\Foobar.Core.Test.csproj", "{C68DED27-A119-45F7-8B61-366AA504C15D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foobar.Test", "Foobar.Test\Foobar.Test.csproj", "{C68DED27-A119-45F7-8B61-366AA504C15D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".common", ".common", "{85F09433-B929-4EC6-9D7C-E40352270C7D}"
 	ProjectSection(SolutionItems) = preProject
+		appveyor.yml = appveyor.yml
+		README.md = README.md
 		.common\VersionInfo.cs = .common\VersionInfo.cs
 	EndProjectSection
 EndProject
