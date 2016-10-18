@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Fedja Bosnic</authors>
+    <owners>Fedja Bosnic</owners>
+    <summary>A back to basics library for manipulating bar data.</summary>
+    <description>$description$</description>
+    <projectUrl>https://github.com/fedjabosnic/foobar</projectUrl>
+    <copyright>Copyright © Fedja Bosnic 2015</copyright>
+    <releaseNotes></releaseNotes>
+    <tags>foobar bars finance</tags>
+  </metadata>
+</package>
