@@ -12,7 +12,7 @@
   build:
     verbosity: normal
 - 
-  version: 0.1.6.{build}
+  version: 0.1.7.{build}
   branches:
     only:
     - master
@@ -34,12 +34,3 @@
   artifacts:
   - path: '**\*.nupkg'
     name: Nuget packages
-- 
-  branches:
-    only:
-    - master
-  skip_non_tags: true
-  build: off
-  deploy:
-    provider: Environment
-    name: Nuget.org
