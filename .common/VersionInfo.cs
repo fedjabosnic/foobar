@@ -13,5 +13,5 @@
 // Revision: Internal changes (not affecting public interface)
 // Build:    Incrementing build number (automatic)
 
-[assembly: AssemblyVersion("0.1.0.0")]
-[assembly: AssemblyFileVersion("0.1.0.0")]
+[assembly: AssemblyVersion("0.0.0.0")]
+[assembly: AssemblyFileVersion("0.0.0.0")]

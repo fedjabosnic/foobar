@@ -9,6 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foobar.Test", "Foobar.Test\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".common", ".common", "{85F09433-B929-4EC6-9D7C-E40352270C7D}"
 	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
 		.common\VersionInfo.cs = .common\VersionInfo.cs
 	EndProjectSection
 EndProject
