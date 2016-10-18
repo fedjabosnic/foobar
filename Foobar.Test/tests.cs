@@ -2,7 +2,7 @@
 using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Tobacco.Test
+namespace Foobar.Test
 {
     [TestClass]
     public class tests
