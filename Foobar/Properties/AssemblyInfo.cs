@@ -1,9 +1,9 @@
 ﻿using System.Reflection;
 using System.Runtime.CompilerServices;
 
-[assembly: AssemblyProduct("Foobar.Core")]
-[assembly: AssemblyTitle("Foobar.Core")]
-[assembly: AssemblyDescription("Foobar.Core")]
+[assembly: AssemblyProduct("Foobar")]
+[assembly: AssemblyTitle("Foobar")]
+[assembly: AssemblyDescription("Foobar")]
 [assembly: AssemblyConfiguration("")]
 
-[assembly: InternalsVisibleTo("Foobar.Core.Test")]
+[assembly: InternalsVisibleTo("Foobar.Test")]
